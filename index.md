@@ -17,9 +17,9 @@ layout: default
 Для подключения необходим QR код, либо файл .conf
 ![image](https://github.com/user-attachments/assets/65a40cc3-d395-4796-9181-5f14272f7acd)
 ![image](https://github.com/user-attachments/assets/efde1beb-5b06-41e6-beb6-c111cf93c300)
-![image](https://github.com/user-attachments/assets/d6ecc790-7731-40b8-bdda-9b9bb633d4ef)
 ![image](https://github.com/user-attachments/assets/88d952a4-e299-423d-9f53-6563a25623e5)
-![image](https://github.com/user-attachments/assets/63caa586-1c84-432e-bbdd-ad9cf07ac5d3)
+![image](https://github.com/user-attachments/assets/10f98e34-fd54-4ac8-94fd-fe84011bd62e)
+
 
 
 
