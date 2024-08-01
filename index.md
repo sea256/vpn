@@ -17,6 +17,7 @@ layout: default
 Для подключения необходим QR код, либо файл .conf
 
 Пример подключения в Windows:
+
 ![image](https://github.com/user-attachments/assets/65a40cc3-d395-4796-9181-5f14272f7acd)
 ![image](https://github.com/user-attachments/assets/efde1beb-5b06-41e6-beb6-c111cf93c300)
 ![image](https://github.com/user-attachments/assets/88d952a4-e299-423d-9f53-6563a25623e5)
@@ -25,6 +26,7 @@ layout: default
 Готово, теперь можем зайти на https://ipinfo.io и убедиться, что всё в порядке.
 
 Порядок действий и на iOS:
+
 ![image](https://github.com/user-attachments/assets/df8fc72c-9576-4f8d-9076-ebfeb61fe38a)
 ![image](https://github.com/user-attachments/assets/5eea61fa-7083-4eea-924f-cdb46263e0a8)
 ![image](https://github.com/user-attachments/assets/93fee88e-5e7b-4dcd-ad2c-2fb601c179dd)
@@ -32,11 +34,7 @@ layout: default
 ![image](https://github.com/user-attachments/assets/f5fd2185-f20b-4e73-b43f-4d6997421c54)
 ![image](https://github.com/user-attachments/assets/4dd9231a-042f-4a85-b3c2-772c3a65bf1f)
 
-Готово! VPN подключен, теперь Ваше соединение безопасно и не ограничено.
-
-
-
-
+Готово! VPN подключен, теперь Ваше соединение не ограничено и безопасно.
 
 ### Как получить?
 Напишите мне в телеграм [@temp0x0](https://t.me/temp0x0).
